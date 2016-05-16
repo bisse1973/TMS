@@ -6,7 +6,7 @@ import webservice_layer.Competency;
 import webservice_layer.CompetencyArray;
 
 public class CompetencySQL {
-
+//
 	DBConnect dbconn = new DBConnect();
 	
 	public CompetencyArray getAllCompetencies() {
